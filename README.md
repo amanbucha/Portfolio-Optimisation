@@ -1,2 +1,2 @@
 # Portfolio-Optimisation
-A model which outputs the portfolio which gives the maximum profit and the least risk
+Performed portfolio optimization to generate the minimum variance portfolio on Indian Stocks.
